@@ -2,7 +2,8 @@
 下载动画
 
 # PhotoShoot
-![image](https://github.com/Zws-China/WSCycleScrollView/blob/master/WSCycleScrollView/WSCycleScrollView/scroll.gif)
+![image](https://github.com/Zws-China/.../blob/master/image/image/312e21d23d.gif)
+![image](https://github.com/Zws-China/.../blob/master/image/image/4333d3e2e2e.png)
 
 # How To Use
 
